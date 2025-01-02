@@ -1,0 +1,1 @@
+When placing an order through the e-commerce site, if the user does not have a specified address, they will be prompted with a message to contact the administration via the /contactus form. If the user has a specified address, they can proceed to checkout and select one of the available addresses for shipping, with editing of these addresses prevented.
